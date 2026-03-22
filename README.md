@@ -4,6 +4,13 @@
 
 > Built and compared multiple CNN architectures (VGG16, AlexNet, ResNet18) using transfer learning to classify 18 landmark classes, achieving **95.8% accuracy** with ResNet by leveraging residual connections for efficient deep feature learning.
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Framework](https://img.shields.io/badge/Framework-PyTorch-red)
+![Data](https://img.shields.io/badge/Data-Image%20Classification-green)
+![Models](https://img.shields.io/badge/Models-VGG16%20%7C%20AlexNet%20%7C%20ResNet18-purple)
+![Task](https://img.shields.io/badge/Task-Computer%20Vision-lightgrey)
+![Best Model](https://img.shields.io/badge/Best-ResNet18%20(95.8%25)-brightgreen)
+
 ---
 
 # 🏛️ UVA Landmark Image Classification
