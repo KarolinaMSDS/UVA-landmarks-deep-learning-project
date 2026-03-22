@@ -8,9 +8,9 @@
 
 # 🏛️ UVA Landmark Image Classification
 
-
-
 **Deep Learning Project | Computer Vision | PyTorch**
+
+<p align="center"> <img src="Rot.jpg" alt="Rotunda" width="250"/> <img src="AcademicalVillage.jpg" alt="Academical Village" width="250"/> <img src="OldCabel.jpg" alt="Newcomb Hall" width="250"/> </p>
 
 ## 📌 Overview
 
